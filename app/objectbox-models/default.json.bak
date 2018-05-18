@@ -1,0 +1,76 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3505278900801284822",
+      "lastPropertyId": "13:1256969427462956342",
+      "name": "Event",
+      "properties": [
+        {
+          "id": "1:378703414697766256",
+          "name": "id"
+        },
+        {
+          "id": "2:4290276489768545535",
+          "name": "eventName"
+        },
+        {
+          "id": "3:3121862520820158425",
+          "name": "eventType"
+        },
+        {
+          "id": "5:6067447005708893657",
+          "name": "bRepeatYear"
+        },
+        {
+          "id": "6:1970822740626185303",
+          "name": "bRepeatMonth"
+        },
+        {
+          "id": "7:8467500833764125671",
+          "name": "bRepeatWeek"
+        },
+        {
+          "id": "8:609474872374378665",
+          "name": "bRepeatDay"
+        },
+        {
+          "id": "9:3743993686954305076",
+          "name": "year"
+        },
+        {
+          "id": "10:9182968005945695953",
+          "name": "month"
+        },
+        {
+          "id": "11:3885702337145893791",
+          "name": "day"
+        },
+        {
+          "id": "12:6884484039517851638",
+          "name": "hour"
+        },
+        {
+          "id": "13:1256969427462956342",
+          "name": "minute"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:3505278900801284822",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    8505678955467075071
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
